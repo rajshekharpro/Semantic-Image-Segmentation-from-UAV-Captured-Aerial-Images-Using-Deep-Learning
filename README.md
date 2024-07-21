@@ -1,6 +1,8 @@
 # Semantic-Image-Segmentation-from-UAV-Captured-Aerial-Images-Using-Deep-Learning
 
 #Abstract
+
+
 Unmanned aerial vehicle (UAV)-captured aerial images have great potential to support
 various applications, such as smart urban planning, terrain classification, vegetation
 detection, agriculture planning, and environmental surveillance. Semantic image
