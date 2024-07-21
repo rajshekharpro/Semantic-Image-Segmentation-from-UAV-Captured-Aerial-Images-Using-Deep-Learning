@@ -1,6 +1,6 @@
 # Semantic-Image-Segmentation-from-UAV-Captured-Aerial-Images-Using-Deep-Learning
 
-#Abstract
+**Abstract**
 
 
 Unmanned aerial vehicle (UAV)-captured aerial images have great potential to support
@@ -24,6 +24,8 @@ parameters, without compromising the model’s accuracy. LW-AerialSegNet’s lig
 and efficient design makes it suitable for real-time deployment on edge devices, such as
 UAVs. This can enable various real-life applications, such as vegetation detection and
 road-line extraction for urban mapping and agricultural land planning.
-Keywords: Convolutional neural network (CNN); depth-wise dilated separable
+
+**Keywords:** _Convolutional neural network (CNN); depth-wise dilated separable
 convolution (DDC); Attention Architecture; Unmanned aerial vehicle (UAV); Deep
 learning; Semantic segmentation; Urban mapping.
+_
