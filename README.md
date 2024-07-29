@@ -9,7 +9,7 @@ detection, agriculture planning, and environmental surveillance. Semantic image
 segmentation, a task that assigns a class label to each pixel in an image, plays a vital
 role in these applications. However, existing deep learning-based segmentation models are
 often computationally expensive and require a large number of parameters, making them
-unsuitable for real-time deployment on edge devices.This research thesis suggests Attention
+unsuitable for real-time deployment on edge devices.This research suggests Attention
 based LW-AerialSegNet, a lightweight convolutional neural network (CNN) architecture.
 for semantic image segmentation of UAV-captured aerial images. LW-AerialSegNet
 employs a dense module inspired design to preserve the network’s feed-forward nature and
